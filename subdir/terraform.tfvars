@@ -1,3 +1,3 @@
 variable "suffix" {
-  default = "baz"
+  default = "cup"
 }
