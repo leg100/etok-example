@@ -1,3 +1,3 @@
 variable "suffix" {
-  default = "abc"
+  default = "err"
 }
