@@ -1,3 +1,1 @@
-variable "suffix" {
-  default = "err"
-}
+suffix = "err"
